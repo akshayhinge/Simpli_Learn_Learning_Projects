@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+F:\Simpli learn\phase 1\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+1113341227.index
+1664405848.index
